@@ -1,6 +1,7 @@
 from flask import Flask, request, Response
 from controllers import CSVController, GetDataController
 from config import config
+from flask_cors import CORS
 import requests, json
 
 app = Flask(__name__)
@@ -37,6 +38,11 @@ def get_news():
     except Exception as ex:
         print(ex)
         return []
+
+@app.route('/getFaq', methods=['GET'])
+def get_faq():
+
+    return "200"
 
 # @app.route('/')
 # def hello_world():

@@ -1,0 +1,34 @@
+[
+    {
+      "id": "one",
+      "name":
+        "Why is the disease being called coronavirus disease 2019, COVID-19?  ",
+      "answer":
+        "On February 11, 2020 the World Health Organization announced an official name for the disease that is causing the 2019 novel coronavirus outbreak, first identified in Wuhan China. The new name of this disease is coronavirus disease 2019, abbreviated as COVID-19. In COVID-19, 'CO' stands for 'corona,' 'VI' for 'virus,' and 'D' for disease. Formerly, this disease was referred to as 2019 novel coronavirus or 2019-nCoV.There are many types of human coronaviruses including some that commonly cause mild upper-respiratory tract illnesses. COVID-19 is a new disease, caused be a novel (or new) coronavirus that has not previously been seen in humans. The name of this disease was selected following the World Health Organization (WHO) best practice for naming of new human infectious diseases."
+    },
+    {
+      "id": "two",
+      "name": "How does the virus spread?",
+      "answer":
+        "This virus was first detected in Wuhan City, Hubei Province, China. The first infections were linked to a live animal market, but the virus is now spreading from person-to-person. It's important to note that person-to-person spread can happen on a continuum. Some viruses are highly contagious (like measles), while other viruses are less so. The virus that causes COVID-19 seems to be spreading easily and sustainably in the community (community spread) in some affected geographic areas. Community spread means people have been infected with the virus in an area, including some who are not sure how or where they became infected. Learn what is known about the spread of newly emerged coronaviruses."
+    },
+    {
+      "id": "three",
+      "name": "What are the symptoms and complications that 2019-nCoV can cause?",
+      "answer":
+        "Current symptoms reported for patients with COVID-19 have included mild to severe respiratory illness with fever, cough, and difficulty breathing."
+    },
+    {
+      "id": "four",
+      "name":
+        "Does CDC recommend the use of facemask in the community to prevent 2019-nCoV?",
+      "answer":
+        "CDC does not recommend that people who are well wear a facemask to protect themselves from respiratory illnesses, including COVID-19. You should only wear a mask if a healthcare professional recommends it. A facemask should be used by people who have COVID-19 and are showing symptoms. This is to protect others from the risk of getting infected. The use of facemasks also is crucial for health workers and other people who are taking care of someone infected with COVID-19 in close settings (at home or in a health care facility)."
+    },
+    {
+      "id": "five",
+      "name": "Should I be tested for 2019-nCoV?",
+      "answer":
+        "Call your healthcare professional if you feel sick with fever, cough, or difficulty breathing, and have been in close contact with a person known to have COVID-19, or if you live in or have recently traveled from an area with ongoing spread of COVID-19. Your healthcare professional will work with your state's public health department and CDC to determine if you need to be tested for COVID-19. "
+    }
+  ]
