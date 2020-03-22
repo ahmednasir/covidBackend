@@ -2,8 +2,10 @@ from flask import Flask, request, Response
 from controllers import CSVController, GetDataController
 from config import config
 import requests, json
+from flask_cors import CORS
 
 app = Flask(__name__)
+cors = CORS(app)
 csv_controller = CSVController.CSVController()
 data = GetDataController.GetDataController()
 
@@ -38,9 +40,9 @@ def get_news():
         print(ex)
         return []
 
-# @app.route('/')
-# def hello_world():
-#     return 'Hello World!'
+@app.route('/')
+def hello_world():
+    return 'Hello World!'
 
 
 if __name__ == '__main__':

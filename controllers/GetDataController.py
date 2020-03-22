@@ -2,7 +2,7 @@ import os
 import json
 
 root_dir = os.getcwd()
-path = os.path.join(root_dir,"results.json")
+path = os.path.join(root_dir,"covidBackend/results.json")
 
 
 class GetDataController:
