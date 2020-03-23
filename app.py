@@ -43,7 +43,16 @@ def get_news():
 
         for val in response:
             val['title'] = val['title'].replace('<b>','').replace('</b>','').replace('\n',' ')
-        return Response(json.dumps(response),  mimetype='application/json')
+        results = []
+        for i in range(0, len(response), 2):
+            temp_list = []
+            response[i]["class"] ="card card-1"
+            response[i+1]["class"] = "card card-2"
+            temp_list.append(response[i])
+            temp_list.append(response[i+1])
+            results.append(temp_list)
+
+        return Response(json.dumps(results),  mimetype='application/json')
     except Exception as ex:
         print(ex)
         return []
@@ -62,5 +71,4 @@ def get_faq():
 
 
 if __name__ == '__main__':
-
     app.run(host="0.0.0.0")
