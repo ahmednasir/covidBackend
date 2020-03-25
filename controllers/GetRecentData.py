@@ -32,7 +32,7 @@ class GetRecentData:
                     model[country]["TotalDeaths"] = TotalDeath
                 # else:
                 #     print(country)
-            f = open("results.json", 'w')
+            f = open("/home/ubuntu/covidBackend/results.json", 'w')
             f.write(json.dumps(model))
             f.close()
             return "200"

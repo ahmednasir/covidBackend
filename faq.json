@@ -1,34 +1,132 @@
 [
-    {
-      "id": "one",
-      "name":
-        "Why is the disease being called coronavirus disease 2019, COVID-19?  ",
-      "answer":
-        "On February 11, 2020 the World Health Organization announced an official name for the disease that is causing the 2019 novel coronavirus outbreak, first identified in Wuhan China. The new name of this disease is coronavirus disease 2019, abbreviated as COVID-19. In COVID-19, 'CO' stands for 'corona,' 'VI' for 'virus,' and 'D' for disease. Formerly, this disease was referred to as 2019 novel coronavirus or 2019-nCoV.There are many types of human coronaviruses including some that commonly cause mild upper-respiratory tract illnesses. COVID-19 is a new disease, caused be a novel (or new) coronavirus that has not previously been seen in humans. The name of this disease was selected following the World Health Organization (WHO) best practice for naming of new human infectious diseases."
-    },
-    {
-      "id": "two",
-      "name": "How does the virus spread?",
-      "answer":
-        "This virus was first detected in Wuhan City, Hubei Province, China. The first infections were linked to a live animal market, but the virus is now spreading from person-to-person. It's important to note that person-to-person spread can happen on a continuum. Some viruses are highly contagious (like measles), while other viruses are less so. The virus that causes COVID-19 seems to be spreading easily and sustainably in the community (community spread) in some affected geographic areas. Community spread means people have been infected with the virus in an area, including some who are not sure how or where they became infected. Learn what is known about the spread of newly emerged coronaviruses."
-    },
-    {
-      "id": "three",
-      "name": "What are the symptoms and complications that 2019-nCoV can cause?",
-      "answer":
-        "Current symptoms reported for patients with COVID-19 have included mild to severe respiratory illness with fever, cough, and difficulty breathing."
-    },
-    {
-      "id": "four",
-      "name":
-        "Does CDC recommend the use of facemask in the community to prevent 2019-nCoV?",
-      "answer":
-        "CDC does not recommend that people who are well wear a facemask to protect themselves from respiratory illnesses, including COVID-19. You should only wear a mask if a healthcare professional recommends it. A facemask should be used by people who have COVID-19 and are showing symptoms. This is to protect others from the risk of getting infected. The use of facemasks also is crucial for health workers and other people who are taking care of someone infected with COVID-19 in close settings (at home or in a health care facility)."
-    },
-    {
-      "id": "five",
-      "name": "Should I be tested for 2019-nCoV?",
-      "answer":
-        "Call your healthcare professional if you feel sick with fever, cough, or difficulty breathing, and have been in close contact with a person known to have COVID-19, or if you live in or have recently traveled from an area with ongoing spread of COVID-19. Your healthcare professional will work with your state's public health department and CDC to determine if you need to be tested for COVID-19. "
-    }
-  ]
+  {
+    "id": "one",
+    "name": "Why is the disease being called coronavirus disease 2019, COVID-19? ",
+    "answer": "On February 11, 2020 the World Health Organization announced an official name for the disease that is causing the 2019 novel coronavirus outbreak, first identified in Wuhan China. The new name of this disease is coronavirus disease 2019, abbreviated as COVID-19. In COVID-19, 'CO' stands for 'corona,' 'VI' for 'virus,' and 'D' for disease. Formerly, this disease was referred to as 2019 novel coronavirus or 2019-nCoV.There are many types of human coronaviruses including some that commonly cause mild upper-respiratory tract illnesses. COVID-19 is a new disease, caused be a novel (or new) coronavirus that has not previously been seen in humans. The name of this disease was selected following the World Health Organization (WHO) best practice for naming of new human infectious diseases."
+  },
+  {
+    "id": "two",
+    "name": "How does the virus spread?",
+    "answer": "This virus was first detected in Wuhan City, Hubei Province, China. The first infections were linked to a live animal market, but the virus is now spreading from person-to-person. It's important to note that person-to-person spread can happen on a continuum. Some viruses are highly contagious (like measles), while other viruses are less so. The virus that causes COVID-19 seems to be spreading easily and sustainably in the community (community spread) in some affected geographic areas. Community spread means people have been infected with the virus in an area, including some who are not sure how or where they became infected. Learn what is known about the spread of newly emerged coronaviruses."
+  },
+  {
+    "id": "three",
+    "name": "What are the symptoms and complications that 2019-nCoV can cause?",
+    "answer": "Current symptoms reported for patients with COVID-19 have included mild to severe respiratory illness with fever, cough, and difficulty breathing."
+  },
+  {
+    "id": "four",
+    "name": "Does CDC recommend the use of facemask in the community to prevent 2019-nCoV?",
+    "answer": "CDC does not recommend that people who are well wear a facemask to protect themselves from respiratory illnesses, including COVID-19. You should only wear a mask if a healthcare professional recommends it. A facemask should be used by people who have COVID-19 and are showing symptoms. This is to protect others from the risk of getting infected. The use of facemasks also is crucial for health workers and other people who are taking care of someone infected with COVID-19 in close settings (at home or in a health care facility)."
+  },
+  {
+    "id": "five",
+    "name": "Should I be tested for 2019-nCoV?",
+    "answer": "Call your healthcare professional if you feel sick with fever, cough, or difficulty breathing, and have been in close contact with a person known to have COVID-19, or if you live in or have recently traveled from an area with ongoing spread of COVID-19. Your healthcare professional will work with your state's public health department and CDC to determine if you need to be tested for COVID-19. "
+  },
+  {
+    "id": "six",
+    "name": "How does COVID-19 spread??",
+    "answer": "People can catch COVID-19 from others who have the virus. 💦 The disease can spread from person to person through small droplets from the nose or mouth which are spread when a person with COVID-19 coughs or exhales. 🥄 These droplets land on objects and surfaces around the person. 👈 Other people then catch COVID-19 by touching these objects or surfaces, then touching their eyes, nose or mouth. ↔ People can also catch COVID-19 if they breathe in droplets from a person with COVID-19 who coughs out or exhales droplets. This is why it is important to stay more than 1 meter (3 feet) away from a person who is sick. WHO is assessing ongoing research on the ways COVID-19 is spread and will continue to share updated findings. "
+  },
+  {
+    "id": "seven",
+    "name": "Can the virus that causes COVID-19 be transmitted through the air?",
+    "answer": "Studies to date suggest that the virus that causes COVID-19 is mainly transmitted through contact with respiratory droplets rather than through the air. "
+  },
+  {
+    "id": "eight",
+    "name": "Can COVID-19 be caught from a person who has no symptoms?",
+    "answer": "The main way the disease spreads is through respiratory droplets expelled by someone who is coughing. The risk of catching COVID-19 from someone with no symptoms at all is very low. However, many people with COVID-19 experience only mild symptoms. This is particularly true at the early stages of the disease. It is therefore possible to catch COVID-19 from someone who has, for example, just a mild cough and does not feel ill. WHO is assessing ongoing research on the period of transmission of COVID-19 and will continue to share updated findings."
+  },
+  {
+    "id": "nine",
+    "name": "What are coronaviruses, COVID-19 and how are they related to SARS? What is a coronavirus?",
+    "answer": "Coronaviruses are a large family of viruses which may cause illness in animals or humans. In humans, several coronaviruses are known to cause respiratory infections ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome (MERS) and Severe Acute Respiratory Syndrome (SARS). The most recently discovered coronavirus causes coronavirus disease COVID-19."
+  },
+  {
+    "id": "ten",
+    "name": "What is COVID-19?",
+    "answer": "COVID-19 is the infectious disease caused by the most recently discovered coronavirus. This new virus and disease were unknown before the outbreak began in Wuhan, China, in December 2019."
+  },
+  {
+    "id": "eleven",
+    "name": "Is COVID-19 the same as SARS?",
+    "answer": "No. The virus that causes COVID-19 and the one that caused the outbreak of Severe Acute Respiratory Syndrome (SARS) in 2003 are related to each other genetically, but the diseases they cause are quite different. SARS was more deadly but much less infectious than COVID-19. There have been no outbreaks of SARS anywhere in the world since 2003."
+  },
+  {
+    "id": "twelve",
+    "name": "What can I do to protect myself and prevent the spread of disease?",
+    "answer": "Stay aware of the latest information on the COVID-19 outbreak, available on the WHO website and through your national and local public health authority. Many countries around the world have seen cases of COVID-19 and several have seen outbreaks. Authorities in China and some other countries have succeeded in slowing or stopping their outbreaks. However, the situation is unpredictable so check regularly for the latest news. You can reduce your chances of being infected or spreading COVID-19 by taking some simple precautions: 🧼 Regularly and thoroughly clean your hands with an alcohol-based hand rub or wash them with soap and water. Why? Washing your hands with soap and water or using alcohol-based hand rub kills viruses that may be on your hands. ↔ Maintain at least 1 metre (3 feet) distance between yourself and anyone who is coughing or sneezing. Why? When someone coughs or sneezes they spray small liquid droplets from their nose or mouth which may contain virus. If you are too close, you can breathe in the droplets, including the COVID-19 virus if the person coughing has the disease. 🚫 Avoid touching eyes, nose and mouth Why? Hands touch many surfaces and can pick up viruses. Once contaminated, hands can transfer the virus to your eyes, nose or mouth. From there, the virus can enter your body and can make you sick. 🤧 Make sure you, and the people around you, follow good respiratory hygiene. This means covering your mouth and nose with your bent elbow or tissue when you cough or sneeze. Then dispose of the used tissue immediately. Why? Droplets spread virus. By following good respiratory hygiene you protect the people around you from viruses such as cold, flu and COVID-19. 🏠 Stay home if you feel unwell. If you have a fever, cough and difficulty breathing, seek medical attention and call in advance. Follow the directions of your local health authority. Why? National and local authorities will have the most up to date information on the situation in your area. Calling in advance will allow your health care provider to quickly direct you to the right health facility. This will also protect you and help prevent spread of viruses and other infections. 🧳 Keep up to date on the latest COVID-19 hotspots (cities or local areas where COVID-19 is spreading widely). If possible, avoid traveling to places – especially if you are an older person or have diabetes, heart or lung disease. Why? You have a higher chance of catching COVID-19 in one of these areas."
+  },
+  {
+    "id": "thirteen",
+    "name": "Can I catch COVID-19 from feces, animals, pets, surfaces or packages? 🚽 Can I catch COVID-19 from the feces of someone with the disease? ",
+    "answer": "The risk of catching COVID-19 from the feces of an infected person appears to be low. While initial investigations suggest the virus may be present in feces in some cases, spread through this route is not a main feature of the outbreak. WHO is assessing ongoing research on the ways COVID-19 is spread and will continue to share new findings. Because this is a risk, however, it is another reason to clean hands regularly, after using the bathroom and before eating. "
+  },
+  {
+    "id": "fourteen",
+    "name": "Can humans become infected with the COVID-19 from an animal source?",
+    "answer": "Coronaviruses are a large family of viruses that are common in animals. Occasionally, people get infected with these viruses which may then spread to other people. For example, SARS-CoV was associated with civet cats and MERS-CoV is transmitted by dromedary camels. Possible animal sources of COVID-19 have not yet been confirmed. To protect yourself, such as when visiting live animal markets, avoid direct contact with animals and surfaces in contact with animals. Ensure good food safety practices at all times. Handle raw meat, milk or animal organs with care to avoid contamination of uncooked foods and avoid consuming raw or undercooked animal products."
+  },
+  {
+    "id": "fifteen",
+    "name": "Can I catch COVID-19 from my pet?",
+    "answer": "There is no evidence that a dog, cat or any pet can transmit COVID-19. COVID-19 is mainly spread through droplets produced when an infected person coughs, sneezes or speaks. To protect yourself clean your hands frequently and thoroughly."
+  },
+  {
+    "id": "sixteen",
+    "name": "Can I catch COVID-19 from surfaces or packages? 🥄 How long does the virus survive on surfaces?",
+    "answer": "It is not certain how long the virus that causes COVID-19 survives on surfaces, but it seems to behave like other coronaviruses. Studies suggest that coronaviruses (including preliminary information on the COVID-19 virus) may persist on surfaces for a few hours or up to several days. This may vary under different conditions (e.g. type of surface, temperature or humidity of the environment). If you think a surface may be infected, clean it with simple disinfectant to kill the virus and protect yourself and others. Clean your hands with an alcohol-based hand rub or wash them with soap and water. Avoid touching your eyes, mouth, or nose."
+  },
+  {
+    "id": "seventeen",
+    "name": "Is it safe to receive a package from any area where COVID-19 has been reported?",
+    "answer": "Yes. The likelihood of an infected person contaminating commercial goods is low and the risk of catching the virus that causes COVID-19 from a package that has been moved, travelled, and exposed to different conditions and temperature is also low."
+  },
+  {
+    "id": "eighteen",
+    "name": "What should I do if I have visited an area where COVID-19 is spreading?",
+    "answer": " If you have recently visited (past 14 days) areas where COVID-19 is spreading follow the guidance outlined in question 15. (What can I do to protect myself and prevent the spread of disease?) and do the following: 🏠 Self-isolate by staying at home if you begin to feel unwell, even with mild symptoms such as headache, low grade fever (37.3°C or above) and slight runny nose, until you recover. If it is essential for you to have someone bring you supplies or to go out, e.g. to buy food, then wear a mask to avoid infecting other people. Why? Avoiding contact with others and visits to medical facilities will allow these facilities to operate more effectively and help protect you and others from possible COVID-19 and other viruses. 🤒 If you develop fever, cough and difficulty breathing, seek medical advice promptly as this may be due to a respiratory infection or other serious condition. Call in advance and tell your provider of any recent travel or contact with travelers. Why? Calling in advance will allow your health care provider to quickly direct you to the right health facility. This will also help to prevent possible spread of COVID-19 and other viruses."
+  },
+  {
+    "id": "nineteen",
+    "name": "What are the treatment options for COVID-19 (including drugs, vaccines, therapies)? Are antibiotics effective in preventing or treating COVID-19?",
+    "answer": "No. Antibiotics do not work against viruses, they only work on bacterial infections. COVID-19 is caused by a virus, so antibiotics do not work. Antibiotics should not be used as a means of prevention or treatment of COVID-19. They should only be used as directed by a physician to treat a bacterial infection. "
+  },
+  {
+    "id": "twenty",
+    "name": "Are there any medicines or therapies that can prevent or cure COVID-19?",
+    "answer": "While some western, traditional or home remedies may provide comfort and alleviate symptoms of COVID-19, there is no evidence that current medicine can prevent or cure the disease. WHO does not recommend self-medication with any medicines, including antibiotics, as a prevention or cure for COVID-19. However, there are several ongoing clinical trials that include both western and traditional medicines. WHO will continue to provide updated information as soon as clinical findings are available."
+  },
+  {
+    "id": "twenty_one",
+    "name": "Is there a vaccine, drug or treatment for COVID-19?",
+    "answer": "Not yet. To date, there is no vaccine and no specific antiviral medicine to prevent or treat COVID-2019. However, those affected should receive care to relieve symptoms. People with serious illness should be hospitalized. Most patients recover thanks to supportive care. Possible vaccines and some specific drug treatments are under investigation. They are being tested through clinical trials. WHO is coordinating efforts to develop vaccines and medicines to prevent and treat COVID-19. The most effective ways to protect yourself and others against COVID-19 are to frequently clean your hands, cover your cough with the bend of elbow or tissue, and maintain a distance of at least 1 meter (3 feet) from people who are coughing or sneezing."
+  },
+  {
+    "id": "twenty_two",
+    "name": "Should I wear a mask to protect myself?",
+    "answer": "Only wear a mask if you are ill with COVID-19 symptoms (especially coughing) or looking after someone who may have COVID-19. Disposable face mask can only be used once. If you are not ill or looking after someone who is ill then you are wasting a mask. There is a world-wide shortage of masks, so WHO urges people to use masks wisely. WHO advises rational use of medical masks to avoid unnecessary wastage of precious resources and mis-use of masks. The most effective ways to protect yourself and others against COVID-19 are to frequently clean your hands, cover your cough with the bend of elbow or tissue and maintain a distance of at least 1 meter (3 feet) from people who are coughing or sneezing. "
+  },
+  {
+    "id": "twenty_three",
+    "name": "How to put on, use, take off and dispose of a mask?",
+    "answer": "1. Remember, a mask should only be used by health workers, care takers, and individuals with respiratory symptoms, such as fever and cough. 2. Before touching the mask, clean hands with an alcohol-based hand rub or soap and water 3. Take the mask and inspect it for tears or holes. 4. Orient which side is the top side (where the metal strip is). 5. Ensure the proper side of the mask faces outwards (the coloured side). 6. Place the mask to your face. Pinch the metal strip or stiff edge of the mask so it moulds to the shape of your nose. 7. Pull down the mask’s bottom so it covers your mouth and your chin. 8. After use, take off the mask; remove the elastic loops from behind the ears while keeping the mask away from your face and clothes, to avoid touching potentially contaminated surfaces of the mask. 9. Discard the mask in a closed bin immediately after use. 10. Perform hand hygiene after touching or discarding the mask – Use alcohol-based hand rub or, if visibly soiled, wash your hands with soap and water."
+  },
+  {
+    "id": "twenty_four",
+    "name": "Coping with stress during COVID-19",
+    "answer": " It is normal to feel sad, stressed, confused, scared or angry during a crisis. Talking to people you trust can help. Contact your friends and family. 🥦 If you must stay at home, maintain a healthy lifestyle - including proper diet, sleep, exercise and social contacts with loved ones at home and by email and phone with other family and friends. 🚭 Don’t use smoking, alcohol or other drugs to deal with your emotions. If you feel overwhelmed, talk to a health worker or counsellor. Have a plan, where to go to and how to seek help for physical and mental health needs if required. ℹ Get the facts. Gather information that will help you accurately determine your risk so that you can take reasonable precautions. Find a credible source you can trust such as WHO website or, a local or state public health agency. 😭 Limit worry and agitation by lessening the time you and your family spend watching or listening to media coverage that you perceive as upsetting. ⭐ Draw on skills you have used in the past that have helped you to manage previous life’s adversities and use those skills to help you manage your emotions during the challenging time of this outbreak."
+  },
+  {
+    "id": "twenty_five",
+    "name": "Are there any medicines or therapies that can prevent or cure COVID-19?",
+    "answer": "While some western, traditional or home remedies may provide comfort and alleviate symptoms of COVID-19, there is no evidence that current medicine can prevent or cure the disease. WHO does not recommend self-medication with any medicines, including antibiotics, as a prevention or cure for COVID-19. However, there are several ongoing clinical trials that include both western and traditional medicines. WHO will continue to provide updated information as soon as clinical findings are available."
+  },
+  {
+    "id": "twenty_six",
+    "name": "Is there anything I should not do?",
+    "answer": "The following measures ARE NOT effective against COVID-19 and can be harmful: 🚭Smoking 😷Wearing multiple masks 💊Taking antibiotics In any case, if you have fever, cough and difficulty breathing seek medical care early to reduce the risk of developing a more severe infection and be sure to share your recent travel Questions and answers"
+  }
+]
