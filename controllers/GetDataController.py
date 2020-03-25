@@ -1,5 +1,6 @@
 import os
 import json
+from config import resuts
 
 root_dir = os.getcwd()
 path = os.path.join(root_dir,"covidBackend/results.json")
